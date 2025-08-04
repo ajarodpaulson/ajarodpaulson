@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm an aspiring software engineer currently completing a Bachelor of Computer Science The University of British Columbia Vancouver. I've got an extensive background in healthcare, having worked as a respiratory therapist in a wide variety of care settings and having completed a Bachelor of Health Administration at Toronto Metropolitan University. I enjoy delivering effective solutions to tough, time-sensitive challenges using critical reasoning and collaboration.
+
+I'm passionate about building rigorous and impactful software that's easy to reason about, reuse, and extend, and that make a meaningful difference for people, no matter how small. I'm always on the lookout for opportunities to learn or contribute—you can reach me through my LinkedIn profile! Thanks for reading.
+
 <!--
 **ajarodpaulson/ajarodpaulson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
